@@ -20,20 +20,18 @@ void insert(int addr, int num){
     nxt[unused] = nxt[addr];
     pre[unused] = addr;
 
+    if(nxt[addr] != -1) {
+        pre[nxt[addr]] = unused;
+    }
     nxt[addr] = unused;
-    pre[nxt[addr]] = unused;
-
     unused++;
 }
 
 void erase(int addr){
     nxt[pre[addr]] = nxt[addr];
-    pre[nxt[addr]] = pre[addr];
+    if(nxt[addr] != -1) pre[nxt[addr]] = pre[addr];
 
-    dat[addr] = 0;
-    nxt[addr] = -1;
-    pre[addr] = -1;
-
+    //dat[addr], pre[addr], nxt[addr] = -1, -1, -1;
 }
 
 void insert_test(){
