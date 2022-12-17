@@ -1,7 +1,7 @@
 ### Introduction
 - 개인 알고리즘 스터디용 레포지토리입니다.
 ### Language
-![image](https://user-images.githubusercontent.com/67581495/208224192-dcb1a94f-cea4-48c0-bbb0-48ad5809dd6c.png)
+![image](https://user-images.githubusercontent.com/67581495/208224213-2302431e-ed92-4dc2-b820-28784fc5f6cc.png)
 ---
 ### BOJ Rank
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shg0102kr)](https://solved.ac/shg0102kr)
