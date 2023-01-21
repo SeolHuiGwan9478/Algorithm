@@ -9,9 +9,9 @@
 ### STUDY NOTE
 - 강의를 바탕으로 공부한 이론 & 문제풀이는 아래의 노션 블로그에 정리해두었습니다.
 <img width="875" alt="image" src="https://user-images.githubusercontent.com/67581495/213865031-a792da98-b351-415d-a844-47e6060828f4.png">
-- `Notion 알고리즘 노트` : https://ddongdong-e.notion.site/Algorithm-b0442cd1b06747438e2e737951b9cdc6
 ---
 ### 참고 사이트
 - `바킹독 알고리즘` : https://blog.encrypted.gg/
 - `한국외국어대학교 컴퓨터공학부 신찬수 교수님` : https://www.youtube.com/c/ChanSuShin
+- `Notion 알고리즘 필기노트` : https://ddongdong-e.notion.site/Algorithm-b0442cd1b06747438e2e737951b9cdc6
 ---
