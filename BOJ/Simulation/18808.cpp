@@ -14,9 +14,11 @@ void rotate(){
     for(int j = 0; j < c; j++)
       tmp[i][j] = paper[i][j];
   
-  for(int i = 0; i < c; i++)
-    for(int j = 0; j < r; j++)
-      paper[i][j] = tmp[r-1-j][i];
+  for(int i = 0;i < r;i++){
+    for(int j = 0;j < c;j++){
+      paper[j][r-1-i] = tmp[i][j];
+    }
+  }
 
   swap(r, c);
 }
